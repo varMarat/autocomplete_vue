@@ -1,0 +1,12 @@
+@import './variables.scss';
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1106px;
+    margin: 0 auto;
+    border: 1px solid red;
+    height: 100%;
+}
