@@ -17,11 +17,10 @@ export default {
 
 <style lang="scss">
   .wrapper{
-    max-width: 1280px;
+    // max-width: 1280px;
     width: 100%;
     height: 100vh;
     margin: 0 auto;
-    // border: 1px solid red;
   }
   .www{
     background: #FAFBFC;

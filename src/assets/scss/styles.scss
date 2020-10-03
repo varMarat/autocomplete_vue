@@ -1,12 +1,15 @@
 @import './variables.scss';
-body{
+*{
+    box-sizing: border-box;
     margin: 0;
     padding:0;
-    box-sizing: border-box;
+}
+body{
+    min-width: 1112px;
 }
 .container{
-    max-width: 1106px;
+    max-width: 1112px;
     margin: 0 auto;
-    border: 1px solid red;
+    // border: 1px solid red;
     height: 100%;
 }
