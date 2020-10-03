@@ -45,9 +45,6 @@ export default {
     display: flex;
     align-items: center;
     cursor: pointer;
-    svg{
-
-    }
     span{
       color:#92A2B1;
       line-height: 20px;
